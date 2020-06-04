@@ -1,6 +1,8 @@
 # :unlock: Adamantium-Thief
 Get chromium browsers: passwords, credit cards, history, cookies, bookmarks.  
-Chrome 80 > is supported!  
+Chrome 80 > is supported! 
+
+Cookie format changed. Now it's netscape.
 
 # :herb: Examples:  
 
