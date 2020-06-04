@@ -36,7 +36,7 @@ Stealer.exe BOOKMARKS
   <img src="images/bookmarks.gif"/>
 </p>
 
-### :cookie: Get cookies from browsers:
+### :cookie: Get cookies from browsers(in netscape format):
 ``` batch
 Stealer.exe COOKIES
 ```
